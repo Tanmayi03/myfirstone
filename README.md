@@ -1,2 +1,2 @@
-# myfirstone
+# MyFirstOne
  OpenSource is awesome
