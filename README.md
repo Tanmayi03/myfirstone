@@ -1,2 +1,2 @@
 # myfirstone
-starting my open source journey with this
+ OpenSource is awesome
